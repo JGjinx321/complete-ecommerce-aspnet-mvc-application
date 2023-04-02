@@ -14,6 +14,7 @@ namespace eTickets.Data
 
         }
 
+        //Definitions for models and their relationships
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Actor_Movie>().HasKey(am => new {

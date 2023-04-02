@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace eTickets.Models
 {
+    //Class with many to many relationships
     public class Actor_Movie
     {
         public int MovieId { get; set; }

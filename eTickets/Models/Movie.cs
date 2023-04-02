@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace eTickets.Models
 {
+    //Definition of fields and relationships within Movie class
     public class Movie
     {
         [Key]

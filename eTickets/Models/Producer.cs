@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace eTickets.Models
 {
+    //Definition of fields and relationships for Producer class.
     public class Producer
     {
         [Key]

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace eTickets.Models
 {
+    //Definition of fields and relationships in Cinema class
     public class Cinema
     {
         [Key]
